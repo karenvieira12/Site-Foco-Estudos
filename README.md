@@ -32,8 +32,5 @@ CSS3
 
 JavaScript
 
-Hospedagem: Netlify
-
-🌐 Acesse o Projeto
-
-👉 https://saladeestudos.netlify.app/
+Hospedagem: GITPAGES
+https://karenvieira12.github.io/Site-Foco-Estudos/
